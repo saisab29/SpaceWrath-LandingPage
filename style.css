@@ -11,6 +11,7 @@ html {
 }
 
 body {
+    background-image: url('bgweb.png');
     background-color: #0260bf;
     font-family: Poppins, sans-serif;
     transition: 0.5s;
