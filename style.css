@@ -122,6 +122,14 @@ body {
 }
 
 .footer {
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+    margin: auto;
+  width: 60%;
+    color: #fff;
+    font-family: Poppins, sans-serif;
+    font-size: 20rem;
     width: 100%;
 }
 
