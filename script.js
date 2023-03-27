@@ -35,6 +35,8 @@ function myFunction() {
                 // force download of the zip file
                 saveAs(content, "SpaceWrath.zip");
             });
+
+        alert("Your donwload will begin shortly");
     });
 
 
